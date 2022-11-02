@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/Netflix/go-env v0.0.0-20220526054621-78278af1949d
-	github.com/prometheus/client_golang v1.13.0
+	github.com/prometheus/client_golang v1.13.1
 )
 
 require (
